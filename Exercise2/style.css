@@ -1,0 +1,44 @@
+h1{
+    color: peru;
+    font-size: 40px;
+    border-bottom: 1px solid lightslategray;
+    margin-left: 80px;
+}
+
+h3 {
+    color:indigo;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+h1,
+h3 {
+    font-style: italic;
+}
+
+.divcolored{
+    background-color: lightgray;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.btnOK{
+    color:darkgreen;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid darkgreen;
+    background-color: white;
+    margin-top: 10px;
+}
+
+.btnReset{
+    color:red;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px;
+    background-color: white;
+    margin-top: 10px;
+
+}
